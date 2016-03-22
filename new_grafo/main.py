@@ -11,7 +11,7 @@ from grafo import *
 if __name__ == '__main__':
 
     # Popular o grafo
-    meu_grafo = Grafo(2) # Inicia o grafo ja com o vertice 2
+    meu_grafo = Grafo(2) # Inicia o grafo já com o vertice 2
     meu_grafo.inserir_vertice(3)
     meu_grafo.inserir_vertice(4)
     meu_grafo.inserir_vertice(5)
